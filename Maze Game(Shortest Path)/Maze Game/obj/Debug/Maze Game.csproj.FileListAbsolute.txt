@@ -15,3 +15,6 @@ C:\Users\Ahmad\Dropbox\My Apps\Maze Game\Maze Game\obj\Debug\Maze Game.csprojRes
 C:\Users\Ahmad\Dropbox\My Apps\Maze Game\Maze Game\obj\Debug\Maze_Game.Form1.resources
 C:\Users\Ahmad\Dropbox\My Apps\Maze Game\Maze Game\obj\Debug\Maze_Game.Properties.Resources.resources
 C:\Users\Ahmad\Dropbox\My Apps\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Documents\GitHub\AIGames\Maze Game(Shortest Path)\Maze Game\bin\Debug\Maze Game.exe.config
+C:\Users\Ahmad\Documents\GitHub\AIGames\Maze Game(Shortest Path)\Maze Game\obj\Debug\Maze Game.exe
+C:\Users\Ahmad\Documents\GitHub\AIGames\Maze Game(Shortest Path)\Maze Game\obj\Debug\Maze Game.pdb
