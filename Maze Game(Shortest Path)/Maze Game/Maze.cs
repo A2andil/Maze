@@ -31,8 +31,6 @@ namespace Maze_Game
         public static int[,] visted = new int[13, 30];
         public static void start()
         {
-            stack = new Stack();
-            que = new Queue();
             stack.Clear();
             que.Clear();
             for (int i = 0; i < 13; i++)
