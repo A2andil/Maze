@@ -1,1 +1,1 @@
-# Solve Games Using AI Algorithms
+# Artificial Intelligence Maze Game
