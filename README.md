@@ -1,1 +1,1 @@
-# Artificial Intelligence Maze Game
+# Artificial Intelligence Maze Game [Shortest path]
